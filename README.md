@@ -15,7 +15,7 @@ Source : [E-Learning STMIK Sumedang](https://elearning.stmik-sumedang.ac.id)
 ## Alur Pengumpulan Tugas ke Repositori Ini
 
 0. **Fork** Repositori ini.
-1. Pada hasil _fork_ anda, Buat **Branch** dengan nama **NIM** anda.
+1. Pada hasil _fork_ anda, kemudian _Clone_ & Buat **Branch** dengan nama **NIM** anda.
 2. Pada _branch_ **NIM** anda, buat direktori dengan nama **NIM** anda.
 3. Didalam direktori **NIM** anda, buat sub direktori dengan nama _**Praktikum ..**_.
    > _Contoh **Praktikum Git**.
