@@ -86,7 +86,7 @@ Contoh struktur direktori sebagai *berikut:*
 <!-- prettier-ignore-end -->
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 <p align="center">
-<a href="#"><img src="https://img.shields.io/github/forks/FT3019-PABWEB-A/PABWEB-B"alt="Fork"></a>
+<a href="#"><img src="https://img.shields.io/github/forks/FT3019-PABWEB-B/PABWEB-B"alt="Fork"></a>
 <a href="#"><img src="https://img.shields.io/github/contributors/FT3109-PABWEB/PABWEB-A"alt="Stars"></a>
 <a href="#"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
