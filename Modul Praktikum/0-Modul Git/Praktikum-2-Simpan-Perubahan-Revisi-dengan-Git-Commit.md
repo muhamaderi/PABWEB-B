@@ -36,7 +36,7 @@ git add nama_file.md
 
 ## Membuat Revisi Pertama
 
-Baiklah, sekarang kita akan sudah tahu kondisi-kondisi file dalam Git. Selanjutnya, silahkan  coba ubah kondisi file yang kalian tambahkan menjadi `staged` dengan perintah `git add.`
+Baiklah, sekarang kita sudah tahu kondisi-kondisi file dalam Git. Selanjutnya, silahkan  coba ubah kondisi file yang kalian tambahkan menjadi `staged` dengan perintah `git add.`
 
 ```
 git add nama_file.md
@@ -72,6 +72,7 @@ git commit -m "menambahkan modul praktikum ke-2"
 ```
 
 Setelah itu, coba cek dengan perintah `git status `lagi.
+
 
 ```zsh
 ➜  PABWEB-B (main) ✗ git commit -m "menambahkan modul praktikum ke-2"
