@@ -2,6 +2,7 @@
 ---
 
 ![javapoint](https://static.javatpoint.com/tutorial/git/images/git-push.png)
+
 Pada panduan yang sebelumnya, kita sudah membuat repositori kosong. Belum ada apa-apa di sana.
 
 Sekarang coba tambahkan sebuah file baru.
